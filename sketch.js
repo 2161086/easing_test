@@ -1,6 +1,6 @@
 let x = 0;
 let y = 0;
-let easing = .1;
+let easing = 0.05;
 
 function setup() {
     createCanvas( windowWidth, windowHeight );
